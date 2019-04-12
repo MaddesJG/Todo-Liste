@@ -26,6 +26,9 @@ namespace App_1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+                    //Author: Matthias Jung 
+                    //Created: May 2016
+
             button1.Enabled = false;         
             //button3.Enabled = false;
 
