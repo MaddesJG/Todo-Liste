@@ -233,7 +233,7 @@ namespace App_1
 
             OpenFileDialog ofd = new OpenFileDialog();
 
-                 //ofd.InitialDirectory = "c:\\" ;
+                 ofd.InitialDirectory = "c:\\" ;
                  ofd.Filter = "Todo Files (*.todo)|*.todo" ;
                  ofd.FilterIndex = 1 ;
                  ofd.RestoreDirectory = true ;
